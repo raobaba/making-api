@@ -1,0 +1,24 @@
+{
+  "name": "mini-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raobaba/making-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raobaba/making-api/issues"
+  },
+  "homepage": "https://github.com/raobaba/making-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "nodemon": "^2.0.20"
+  }
+}
